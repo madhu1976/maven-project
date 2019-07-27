@@ -2,7 +2,7 @@
 Source code for James Lee's Jenkins course.
 
 Check out our Latest DevOps PDF book.
-hi how are you all
+
 
 
 This is the best project.....kindly do practice
