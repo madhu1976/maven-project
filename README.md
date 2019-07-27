@@ -5,6 +5,9 @@ Check out our Latest DevOps PDF book.
 hi how are you all
 
 
+This is the best project.....kindly do practice
+
+
 please check the new readme file
 
 https://www.level-up.one/devops-pdf-book
